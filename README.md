@@ -1,6 +1,6 @@
 # EXERCICIO3
 # Análise de Sentimentos com Language Studio no Azure AI
-## Foi criado sentenças de insatisfação de serviços prestato pelo municipio de Oidade Ocidental
+## Foi criado sentenças de insatisfação de serviços prestato pelo municipio de Cidade Ocidental
 ![sentenças](https://github.com/user-attachments/assets/1b380732-8340-4715-9ea5-3b3141c898ed)
 ## Que gerol os seguintes resultados:
 ![Language Studio_ Sentiment and opinion mining tryout](https://github.com/user-attachments/assets/a6645173-daf3-448e-bb28-6d303a9eed9e)
